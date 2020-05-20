@@ -1,1 +1,3 @@
-test file
+Sitemap: https://www.bgccondos.ml/sitemap.xml
+User-agent: *
+Disallow:
